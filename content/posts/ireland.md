@@ -3,7 +3,7 @@ date = "2019"
 title = "Ireland"
 draft = false
 image = "img/photos/irelandcover.jpg"
-showonlyimage = false
+showonlyimage = true
 weight = 3
 +++
 

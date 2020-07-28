@@ -14,8 +14,8 @@ languageCode = "en-us"
   description = "Travel Blog"
   copyright = "&copy;2016 "
   sidebarAbout = [
-    "Welcome to my travel blog.",
-    "Currently based in Cape Town, South Africa."
+    "A proud South African traveller with a deep love for the environment, and a focus on sustainability.",
+
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +29,7 @@ languageCode = "en-us"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "twenty5up.rsa@gmail.com"
+  # email = "twenty5up.rsa@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -54,17 +54,17 @@ languageCode = "en-us"
   name = "South Africa"
   url = "southafrica/"
 
-  [[params.navlinks]]
-  name = "Destinations"
-  url = "destinations/"
+  # [[params.navlinks]]
+  # name = "Destinations"
+  # url = "destinations/"
 
   [[params.navlinks]]
   name = "Inspiration"
   url = "inspiration/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
+  # [[params.navlinks]]
+  # name = "Get in touch"
+  # url = "contact/"
 
   [params.social]
   # facebook      = "full page or profile url in facebook"
@@ -73,7 +73,7 @@ languageCode = "en-us"
   # twitter       = "full profile url in twitter"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
+  instagram     = "https://www.instagram.com/twenty5up/"
   # github        = "full profile url in github"
   # youtube       = "full profile url in youtube"
   # whatsapp      = "wa.me service link"
